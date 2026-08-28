@@ -147,10 +147,6 @@ Environment variables.
 A custom domain can be connected later from either platform's dashboard
 under Domains.
 
-## Screenshots
-
-`[Add screenshots of the live site here once deployed]`
-
 ## About this project
 
 Built for Future Interns Task 1 (Full Stack Web Development track). All
