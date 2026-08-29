@@ -16,9 +16,9 @@ export const personalInfo = {
   availability: "Open to internship and project opportunities",
   email: "rprathiksha6@gmail.com",
   phone: "", // optional — leave blank to hide
-  location: "[MY LOCATION]", // e.g. "Mangaluru, Karnataka, India"
-  github: "[MY GITHUB URL]", // e.g. "https://github.com/rprathiksha6"
-  linkedin: "[MY LINKEDIN URL]", // e.g. "https://www.linkedin.com/in/prathiksha-r-800363326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+  location: "Mangaluru, Karnataka, India", // e.g. "Mangaluru, Karnataka, India"
+  github: "https://github.com/rprathiksha6", // e.g. "https://github.com/rprathiksha6"
+  linkedin: "https://www.linkedin.com/in/prathiksha-r-800363326/", // e.g. "https://www.linkedin.com/in/prathiksha-r-800363326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 };
 
 // Shown in the About section's small stats row. Leave a stat out of the
@@ -63,7 +63,7 @@ export const projects = [
     title: "NagarVoice — Public Complaint Management System",
     description:
       "A course-level project-based learning (PBL) system for DBMS, built to let citizens log and track public complaints. Won 2nd prize at St Joseph Engineering College's course-level PBL.",
-    image: "public/projects/DBMSProject.jpeg",
+    image: "/FUTURE_FS_01/Projects/DBMSProject.jpeg",",
     tech: ["DBMS", "SQL"],
     githubUrl: "",
     liveUrl: "",
@@ -74,7 +74,7 @@ export const projects = [
     title: "Public Complaint Management System (DSA)",
     description:
       "A data-structures-focused implementation of a public complaint management system, built for a course-level PBL in DSA. Won 3rd prize at St Joseph Engineering College's course-level PBL.",
-    image: "public/projects/DSAProject.jpeg",
+    image: "/FUTURE_FS_01/Projects/DSAProject.jpeg",",
     tech: ["Data Structures", "Java"],
     githubUrl: "",
     liveUrl: "",
