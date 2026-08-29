@@ -63,7 +63,7 @@ export const projects = [
     title: "NagarVoice — Public Complaint Management System",
     description:
       "A course-level project-based learning (PBL) system for DBMS, built to let citizens log and track public complaints. Won 2nd prize at St Joseph Engineering College's course-level PBL.",
-    image: "/FUTURE_FS_01/Projects/DBMSProject.jpeg",",
+    image: "/FUTURE_FS_01/Projects/DBMSProject.jpeg",
     tech: ["DBMS", "SQL"],
     githubUrl: "",
     liveUrl: "",
@@ -74,7 +74,7 @@ export const projects = [
     title: "Public Complaint Management System (DSA)",
     description:
       "A data-structures-focused implementation of a public complaint management system, built for a course-level PBL in DSA. Won 3rd prize at St Joseph Engineering College's course-level PBL.",
-    image: "/FUTURE_FS_01/Projects/DSAProject.jpeg",",
+    image: "/FUTURE_FS_01/Projects/DSAProject.jpeg",
     tech: ["Data Structures", "Java"],
     githubUrl: "",
     liveUrl: "",
