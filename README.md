@@ -8,8 +8,7 @@ skills, projects, and professional profile as part of the Future Interns
 Full Stack Web Development internship.
 
 ## Live demo
-
-`[Add your live URL here once deployed, e.g. https://prathiksha-portfolio.vercel.app]`
+https://rprathiksha6.github.io/FUTURE_FS_01/
 
 ## Overview
 
